@@ -1,4 +1,4 @@
-# nasdaq_itch_vwap_calculator
+# NASDAQ ITCH 5.0 VWAP Calculator
 
 Generate a table of running volume-weighted average price [VWAP] 
 for NASDAQ stocks at every trading hour based on Nasdaq TotalView-ITCH 5.0 data.
